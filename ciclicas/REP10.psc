@@ -1,3 +1,4 @@
+//Santiago Farfan Sansores 00593338 Ing. Animacion Digital 
 Proceso REP10
 	Definir i, sumaPares, sumaImpares, contPares, contImpares Como Entero
 	Definir mediaPares, mediaImpares Como Real
@@ -25,4 +26,5 @@ Proceso REP10
 	Escribir "Suma de impares: ", sumaImpares
 	Escribir "Media de impares: ", mediaImpares
 FinProceso
+
 
