@@ -1,3 +1,4 @@
+//Santiago Farfan Sansores 00593338 Ing. Animacion Digital 
 Algoritmo CON10
 	Definir s Como Caracter
 	Definir e como entero
@@ -12,3 +13,4 @@ Algoritmo CON10
 		escribir "No puede ingresar al show";
 	FinSi
 FinAlgoritmo
+
