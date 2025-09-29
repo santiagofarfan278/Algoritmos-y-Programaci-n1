@@ -1,3 +1,4 @@
+//Santiago Farfan Sansores 00593338 Ing. Animacion Digital 
 Algoritmo Pares
 	Definir suma, i Como Entero
 	suma <- 0
@@ -6,5 +7,6 @@ Algoritmo Pares
 		suma <- suma + i
 	FinPara
 	
-	Escribir "La suma de los números pares entre 2 y 100 es: ", suma
+	Escribir "La suma de los nÃºmeros pares entre 2 y 100 es: ", suma
 FinAlgoritmo
+
