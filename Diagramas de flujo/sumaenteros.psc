@@ -1,3 +1,4 @@
+//Santiago Farfan Sansores 00593338 Ing. Animacion Digital 
 Algoritmo Sumaenteros
 	Definir suma, i Como Entero;
 	suma <- 0
@@ -6,5 +7,6 @@ Algoritmo Sumaenteros
 		suma <- suma + i
 	FinPara
 	
-	Escribir "La suma de los 50 primeros números enteros es: ", suma;
+	Escribir "La suma de los 50 primeros nÃºmeros enteros es: ", suma;
 FinAlgoritmo
+
