@@ -1,3 +1,4 @@
+//Santiago Farfan Sansores 00593338 Ing. Animacion Digital 
 Proceso REP08
 	Definir i, suma Como Entero
 	suma <- 0
@@ -8,3 +9,4 @@ Proceso REP08
 	
 	Escribir "La suma de los cuadrados de los 100 primeros enteros es: ", suma
 FinProceso
+
