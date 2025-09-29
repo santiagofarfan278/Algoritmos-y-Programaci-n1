@@ -1,3 +1,4 @@
+//Santiago Farfan Sansores 00593338 Ing. Animacion Digital 
 Algoritmo CON08
 	DEFINIr n como entero 
 	leer n 
@@ -9,3 +10,4 @@ Algoritmo CON08
 		5: escribir "E";
 	FinSegun
 FinAlgoritmo
+
