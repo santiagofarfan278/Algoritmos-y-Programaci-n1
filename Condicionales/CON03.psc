@@ -1,3 +1,4 @@
+//Santiago Farfan Sansores 00593338 Ing. Animacion Digital 
 Algoritmo CON03
 	Definir Numero como entero;
 	
@@ -11,3 +12,4 @@ Algoritmo CON03
 	FinSi
 	
 FinAlgoritmo
+
