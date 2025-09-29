@@ -1,7 +1,8 @@
+//Santiago Farfan Sansores 00593338 Ing. Animacion Digital 
 Algoritmo CON01
 	Definir numero como entero 
 	
-	Escribir "Introduzca un número entero";
+	Escribir "Introduzca un nÃºmero entero";
 	Leer numero;
 	Si numero > 0 entonces 
 		Escribir "El numero es positivo";
@@ -17,3 +18,4 @@ Algoritmo CON01
 	FinSi
 	
 FinAlgoritmo
+
