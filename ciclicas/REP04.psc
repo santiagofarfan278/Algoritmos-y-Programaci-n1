@@ -1,3 +1,4 @@
+//Santiago Farfan Sansores 00593338 Ing. Animacion Digital 
 Proceso REP04
 	Definir i Como Entero
 	
@@ -7,3 +8,4 @@ Proceso REP04
 		FinSi
 	FinPara
 FinProceso
+
