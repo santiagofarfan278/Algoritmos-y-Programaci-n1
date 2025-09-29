@@ -1,4 +1,5 @@
-	Algoritmo CON011
+//Santiago Farfan Sansores 00593338 Ing. Animacion Digital 
+Algoritmo CON011
 		Definir iB, iN Como Real
 		
 		Escribir "Ingrese el importe bruto de la factura: ";
@@ -12,4 +13,5 @@
 		
 		Escribir "El importe neto es: ", iN
 FinAlgoritmo
+
 
