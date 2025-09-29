@@ -1,3 +1,4 @@
+//Santiago Farfan Sansores 00593338 Ing. Animacion Digital 
 Proceso REP09
 	Definir i Como Entero
 	Definir num, suma Como Real
@@ -11,5 +12,6 @@ Proceso REP09
 		FinSi
 	FinPara
 	
-	Escribir "La suma de los números negativos es: ", suma
+	Escribir "La suma de los nÃºmeros negativos es: ", suma
 FinProceso
+
