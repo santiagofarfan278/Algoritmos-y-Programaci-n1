@@ -1,3 +1,4 @@
+//Santiago Farfan Sansores 00593338 Ing. Animacion Digital 
 Algoritmo sin_titulo
 	leer num 
 	si num > 100 entonces 
@@ -15,3 +16,4 @@ Algoritmo sin_titulo
 	
 
 FinAlgoritmo
+
