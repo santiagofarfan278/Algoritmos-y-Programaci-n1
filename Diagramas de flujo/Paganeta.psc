@@ -1,3 +1,4 @@
+//Santiago Farfan Sansores 00593338 Ing. Animacion Digital 
 Algoritmo Paganeta
 	Definir h, t, tasa, b, n Como Real
 	
@@ -15,3 +16,4 @@ Algoritmo Paganeta
 	
 	Escribir "La paga neta es: ", n
 FinAlgoritmo
+
