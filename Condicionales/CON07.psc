@@ -1,3 +1,4 @@
+//Santiago Farfan Sansores 00593338 Ing. Animacion Digital 
 Algoritmo CON07
 	definir num Como Entero
 	leer num
@@ -14,3 +15,4 @@ Algoritmo CON07
 			escribir "no es permitido ese numero"
 	FinSegun
 FinAlgoritmo
+
