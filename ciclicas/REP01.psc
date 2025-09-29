@@ -1,3 +1,4 @@
+//Santiago Farfan Sansores 00593338 Ing. Animacion Digital 
 Proceso REP01
 	Definir n1, n2, r Como Real
 	Definir continuar Como Caracter
@@ -17,7 +18,8 @@ Proceso REP01
 			Escribir "Error: no se puede dividir entre cero"
 		FinSi
 		
-		Escribir "¿Desea realizar otra división? (S/N): "
+		Escribir "Â¿Desea realizar otra divisiÃ³n? (S/N): "
 		Leer continuar
 	FinMientras
 FinProceso
+
