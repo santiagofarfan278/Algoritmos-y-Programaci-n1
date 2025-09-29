@@ -1,3 +1,4 @@
+//Santiago Farfan Sansores 00593338 Ing. Animacion Digital 
 Algoritmo SalarioM
 	Definir horas, tarifa, salario Como Real
 	
@@ -16,3 +17,4 @@ Algoritmo SalarioM
 	Escribir "El salario semanal es: ", salario
 	Escribir "El salario mensual es: ", salario * 4
 FinAlgoritmo
+
