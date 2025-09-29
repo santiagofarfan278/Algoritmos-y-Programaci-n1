@@ -1,3 +1,4 @@
+//Santiago Farfan Sansores 00593338 Ing. Animacion Digital 
 Algoritmo CON02
 	Definir n1,n2,n3 como reales 
 	Escribir "Introduzca un numero";
@@ -14,3 +15,4 @@ Algoritmo CON02
 	FinSi
 	
 FinAlgoritmo
+
