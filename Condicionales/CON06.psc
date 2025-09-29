@@ -1,3 +1,4 @@
+//Santiago Farfan Sansores 00593338 Ing. Animacion Digital 
 Algoritmo CON06
 	Definir Dia como entero 
 Escribir "Introduzca un numero para ver con dia corresponde":
@@ -12,8 +13,9 @@ Escribir "Introduzca un numero para ver con dia corresponde":
 		6: Escribir "Sabado";
 		7: Escribir "Domingo";
 		De Otro Modo:
-			Escribir "El número debe estar entre 1 y 7"
+			Escribir "El nÃºmero debe estar entre 1 y 7"
 			
 	FinSegun
 	
 FinAlgoritmo
+
