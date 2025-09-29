@@ -1,3 +1,4 @@
+//Santiago Farfan Sansores 00593338 Ing. Animacion Digital 
 Algoritmo ProductoN
 	Definir n, i, producto Como Entero;
 	producto <- 1
@@ -9,5 +10,6 @@ Algoritmo ProductoN
 		producto <- producto * i
 	FinPara
 	
-	Escribir "El producto de los ", n, " primeros números naturales es: ", producto;
+	Escribir "El producto de los ", n, " primeros nÃºmeros naturales es: ", producto;
 FinAlgoritmo
+
